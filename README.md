@@ -1,4 +1,3 @@
-# First-repository
-##我的第一个仓库
+##为大创项目-IntereStudy准备
 
 
